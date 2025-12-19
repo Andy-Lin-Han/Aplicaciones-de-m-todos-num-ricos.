@@ -1,2 +1,2 @@
-# Aplicaciones-de-m-todos-num-ricos.
+# Aplicaciones-de-métodos-todos-numéricos.
 A continuación se muestra posibles implementaciones simples para las aplicaciones de ciertos métodos numéricos como Euler o Diferecnias finitas.
